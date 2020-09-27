@@ -5,3 +5,5 @@ Ideas about the dataset
 - use one hot encoding to incorporate the movie genres
 
 - optimize the eps parameter for the DBSCAN model
+
+- fix the metrics output for the DBSCAN model
