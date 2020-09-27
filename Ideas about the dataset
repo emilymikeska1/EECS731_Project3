@@ -1,0 +1,7 @@
+Ideas about the dataset
+
+- add more features from the other csv files
+
+- use one hot encoding to incorporate the movie genres
+
+- optimize the eps parameter for the DBSCAN model
